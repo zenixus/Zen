@@ -1,6 +1,6 @@
 Zen
 ===
-Zen is a lightweight PHP library to help create PHP applications quickly.
+Zen is a lightweight PHP library to help create PHP applications quickly and painlessly. It focuses on the tatsks that developers have to do in almost every project.
 In true sence it may not be called as a PHP Framework but it can still handle most tasks needed to create a secure and workable web applications.
 
 This library implements and encourages the use of OOP best practices, and provides a very flexible skeleton to build your applications. 
